@@ -1,0 +1,1 @@
+# 04.-Integral-Metode-Numerik-Metode-Trapezoid-dan-Riemann
